@@ -1,0 +1,17 @@
+Comandos do Git
+
+Comandos:
+
+DIR: Lista ods diretórios em que está situado.
+
+CD: Leva para um diretório específico...
+
+CLS: Limpa todo o terminbal
+
+MKDIR: Cria uma nova pasta
+
+ECKO: printa de volta a palavra no terminal.
+
+DEL: deleta arquivos de pastas, todo o conteúdo
+
+RMDIR/s/q: Exclúi as pastas.
